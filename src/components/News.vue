@@ -69,7 +69,8 @@ export default {
       padding:30px;
       text-align:center;
       width:75vw;
-      height:100%;
+      height:100vh;
+      margin:-8px;
     }
 
     #searchBar{

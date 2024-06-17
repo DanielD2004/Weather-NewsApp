@@ -18,13 +18,14 @@
 
 <style scoped>
 
+  body{
+    margin: 0px;
+  }
+
   #container{
     display:flex;
     width:100vw;
     height:100vh;
   }
   
-  news-container{
-    margin:auto;
-  }
 </style>

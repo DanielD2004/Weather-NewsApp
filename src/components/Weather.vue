@@ -54,6 +54,7 @@
       white-space:nowrap;
       overflow: hidden;
       font-weight:bold;
+      margin:-8px;
     }
   
     #location{
